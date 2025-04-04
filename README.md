@@ -8,10 +8,10 @@ I'm an aspiring data scientist with a background in education and leadership. Af
 - **Tools:** Jupyter Notebook, Git, VS Code
 
 ### 🧠 Projects
-- [Interconnect Churn Forecast](https://github.com/yourusername/Final-project)  
+- [Interconnect Churn Forecast](https://github.com/susanbassrobbins/Final-project)  
   Predicting customer churn using gradient boosting
 
-- [New Well Selection](https://github.com/yourusername/new_well_selection)  
+- [New Well Selection](https://github.com/susanbassrobbins/new_well_selection)  
   Optimizing oil site selection with regression models and risk analysis
 
 ### 📫 Contact
