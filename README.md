@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi there, I'm Susan!
 
-<!--
-**susanbassrobbins/susanbassrobbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring data scientist with a background in education and leadership. After more than a decade helping people learn and grow, I transitioned into data science to explore how data can drive smarter decisions and solve real-world problems. I recently earned a certificate in Data Science from TripleTen.
 
-Here are some ideas to get you started:
+### 🔧 Skills & Tools
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
+- **Tools:** Jupyter Notebook, Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Projects
+- [Interconnect Churn Forecast](https://github.com/yourusername/Final-project)  
+  Predicting customer churn using gradient boosting
+
+- [New Well Selection](https://github.com/yourusername/new_well_selection)  
+  Optimizing oil site selection with regression models and risk analysis
+
+### 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/susan-bass-robbins/)
+- Email: susanbassrobbins79@gmail.com
+
